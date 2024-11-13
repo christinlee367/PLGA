@@ -1,6 +1,6 @@
 # Analyzing Doxorubicin and Cardioprotective PLGA Nanoparticles on Murine Cardiomyocytes using Machine Learning Modeling to Mitigate Cardiotoxicity
 ## Contents
-1. [Overview](#project-ideation)
+1. [Overview](#overview)
 2. [Repository Contents](#repository-contents)
 3. [Download Paper](#download-conference-paper)
 4. [Citation](#citation)
