@@ -7,7 +7,9 @@
 
 ## Overview
 **Experiment**: Using machine learning modeling, we created a random forest model for processing characteristics of murine cells to predict which of the three treatments it received. We perform feature engineering utilizing correlation matrices between the features, Variation Inflation Factor (VIF) scores, and their Permutation Importance (PI) scores.<br>
+
 **Background**: The data we are working with is sourced from Tuffs Medical Center study with Jaehyun Lee, Chunhui Li, Asma Boukhalfa, and Howard H. Chen across 3 main treatments in a mice experiment. We were able to receive a large dataset of 440,000 entries per class (Untreated, DOX, PLGA+DOX). Using machine learning algorithms we are able to identify patterns and correlations within the data that can help treat this disease. Our approach will involve the classification of this data.<br>
+
 **Results**:Our random forest classifier achieved a 92.63% accuracy in predicting treatment conditions, outperforming other models. Permutation Importance analysis identified PI-B-630/40-A, BV605-610/20-A (both measuring DOX concentration), and SSC-A (measuring cell granularity) as the most critical features for distinguishing between treatments. The statistical analysis of the reduced feature set allowed us to observe PLGA’s capability of maintenance and preservation of cellular membranes, the reversal of lysosomal alkalinization which leads to less granularity, as well as the ability to administer less of the drug when the cells are not tumorous, preserving cardiomyocytes and mitigate cardiotoxicity.<br>
 
 ## Repository Contents
