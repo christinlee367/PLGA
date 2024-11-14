@@ -27,9 +27,9 @@
 - contains the graphs in \*.svg files, ran from the Full Project Source Code, that are used in the final conference paper. 
 
 ## Download Conference Paper
-PDF Document: [PLGA2024MABM.pdf](https://github.com/user-attachments/files/17709780/PLGA_V4_.pdf)
+PDF Document: [PLGA2024MABM.pdf](https://github.com/user-attachments/files/17742336/PLGA2024MABM.pdf)
 
-Word Document: [PLGA2024MABM.docx](https://github.com/user-attachments/files/17709806/PLGA_V4_.docx)
+Word Document: [PLGA2024MABM.docx](https://github.com/user-attachments/files/17742340/PLGA2024MABM.docx)
 
 ## Citation
 C. Lee, J. McCreary, M. Chen, H. Chen, and J. Manjarrés. “Analyzing Doxorubicin and Cardioprotective PLGA Nanoparticles on Murine Cardiomyocytes using Machine Learning Modeling to Mitigate Cardiotoxicity.” _2024 IEEE International Conference on Bioinformatics and Biomedicine_, (2024).
