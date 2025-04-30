@@ -2,8 +2,7 @@
 ## Contents
 1. [Overview](#overview)
 2. [Repository Contents](#repository-contents)
-3. [Download Paper](#download-conference-paper)
-4. [Citation](#citation)
+3. [Citation](#citation)
 
 ## Overview
 **Experiment**: Using machine learning modeling, we created a random forest model for processing characteristics of murine cells to predict which of the three treatments it received. We perform feature engineering utilizing correlation matrices between the features, Variation Inflation Factor (VIF) scores, and their Permutation Importance (PI) scores.<br>
@@ -25,11 +24,6 @@
 
 [Graphs](https://github.com/christinlee367/PLGA/tree/main/Figures)
 - contains the graphs in \*.svg files, ran from the Full Project Source Code, that are used in the final conference paper. 
-
-## Download Conference Paper
-PDF Document: [PLGAMABM2024.pdf](https://github.com/user-attachments/files/17759954/PLGAMABM2024.pdf)
-
-Word Document: [PLGAMABM2024.docx](https://github.com/user-attachments/files/17759955/PLGAMABM2024.docx)
 
 ## Citation
 C. Lee, J. McCreary, M. Chen, H. Chen, and J. Manjarrés. “Analyzing Doxorubicin and Cardioprotective PLGA Nanoparticles on Murine Cardiomyocytes using Machine Learning Modeling to Mitigate Cardiotoxicity.” _2024 IEEE International Conference on Bioinformatics and Biomedicine_, (2024).
